@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: junit-platform-commons-1.9.3.jar spring-web-6.0.12.jar hamcr
+ est-2.2.jar byte-buddy-agent-1.12.23.jar spring-boot-actuator-3.0.11.ja
+ r jakarta.activation-api-2.1.2.jar logback-classic-1.4.11.jar junit-jup
+ iter-5.9.3.jar log4j-api-2.19.0.jar tomcat-embed-el-10.1.13.jar jackson
+ -databind-2.14.3.jar jsonassert-1.5.1.jar jackson-core-2.14.3.jar sprin
+ g-boot-starter-web-3.0.11.jar spring-boot-autoconfigure-3.0.11.jar slf4
+ j-api-2.0.9.jar mockito-junit-jupiter-4.8.1.jar apiguardian-api-1.1.2.j
+ ar micrometer-observation-1.10.11.jar spring-boot-starter-test-3.0.11.j
+ ar spring-beans-6.0.12.jar spring-boot-starter-tomcat-3.0.11.jar spring
+ -webmvc-6.0.12.jar jackson-datatype-jsr310-2.14.3.jar jackson-annotatio
+ ns-2.14.3.jar junit-jupiter-api-5.9.3.jar log4j-to-slf4j-2.19.0.jar mic
+ rometer-core-1.10.11.jar android-json-0.0.20131108.vaadin1.jar spring-b
+ oot-starter-json-3.0.11.jar json-smart-2.4.11.jar snakeyaml-1.33.jar ja
+ ckson-module-parameter-names-2.14.3.jar spring-aop-6.0.12.jar tomcat-em
+ bed-core-10.1.13.jar spring-boot-test-autoconfigure-3.0.11.jar spring-j
+ cl-6.0.12.jar byte-buddy-1.12.23.jar json-path-2.7.0.jar jakarta.xml.bi
+ nd-api-4.0.1.jar HdrHistogram-2.1.12.jar xmlunit-core-2.9.1.jar microme
+ ter-commons-1.10.11.jar accessors-smart-2.4.11.jar junit-platform-engin
+ e-1.9.3.jar junit-jupiter-params-5.9.3.jar opentest4j-1.2.0.jar junit-j
+ upiter-engine-5.9.3.jar spring-boot-actuator-autoconfigure-3.0.11.jar s
+ pring-boot-test-3.0.11.jar logback-core-1.4.11.jar assertj-core-3.23.1.
+ jar jakarta.annotation-api-2.1.1.jar jackson-datatype-jdk8-2.14.3.jar s
+ pring-boot-3.0.11.jar jul-to-slf4j-2.0.9.jar spring-test-6.0.12.jar obj
+ enesis-3.2.jar spring-boot-starter-3.0.11.jar LatencyUtils-2.0.3.jar to
+ mcat-embed-websocket-10.1.13.jar spring-core-6.0.12.jar spring-expressi
+ on-6.0.12.jar spring-boot-starter-actuator-2.6.4.jar spring-context-6.0
+ .12.jar spring-boot-devtools-3.0.11.jar mockito-core-4.8.1.jar spring-b
+ oot-starter-logging-3.0.11.jar asm-9.3.jar
+
