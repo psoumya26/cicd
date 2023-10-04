@@ -29,6 +29,10 @@ jobs:
         cache: maven
     - name: Build with Maven
       run: mvn clean install
+  # - name: test with maven
+  #     run: mvn clean install
+
+      
       # - name: login to docker
       # run: cmd to run docker image
       # - name: Build docker image
